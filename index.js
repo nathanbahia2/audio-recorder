@@ -42,7 +42,7 @@ $(function () {
                     
                     // Cria arquivo temporário para para áudio
                     const blob = new Blob(audios, {
-                        type: "audio/ogg; code=opus",
+                        type: "audio/mp3; code=opus",
                     })
 
 
